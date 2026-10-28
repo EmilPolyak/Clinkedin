@@ -1,6 +1,7 @@
 # Clinkedin
 
-A Chrome extension for filtering and customizing your LinkedIn feed, inspired by F.B. Purity.
+A Chrome extension for filtering and customizing your LinkedIn feed, inspired by F.B. Purity. 
+Note: this extension was not designed for the native Linkedin phone app. It works in browser environments only.
 
 ## What you can control
 
