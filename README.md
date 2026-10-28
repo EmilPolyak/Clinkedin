@@ -43,7 +43,7 @@ Keep the same folder location; there is no need to uninstall.
 
 ## Privacy and practical notes
 
-Settings stay in your Chrome profile. Clinkedin has no analytics and does not send your posts or preferences anywhere. It does not post, react, or change whom you follow. See [PRIVACY.md](PRIVACY.md).
+Settings stay in your Chrome profile. Clinkedin has no analytics and does not send your posts or preferences anywhere.
 
 Filters and layout controls apply to the home feed; autoplay control applies across LinkedIn. Filters read loaded post text. Some depend on English labels. LinkedIn updates may affect how they work.
 
