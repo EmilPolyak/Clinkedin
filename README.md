@@ -1,4 +1,4 @@
-# Clinkedin
+# Update Note
 Scrolling bug (up-down while filtering) fixed om 1.0.7 
 
 
