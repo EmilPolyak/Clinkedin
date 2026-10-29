@@ -1,4 +1,9 @@
 # Clinkedin
+Scrolling bug (up-down while filtering) fixed om 1.0.7 
+
+
+
+# Clinkedin
 
 A Chrome extension for filtering and customizing your LinkedIn feed, inspired by F.B. Purity. 
 Note: this extension was not designed for the native Linkedin phone app. It works in browser environments only.
